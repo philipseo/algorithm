@@ -1,4 +1,4 @@
-풀이 보시고 더 좋은 의견이나 궁금한 부분은 언제든 환영이니 편히 PR이나 ISSUE로 의견 주세요.
+풀이 보시고 더 좋은 의견이나 궁금한 부분은 언제든 환영이니 편히 의견 주시면 감사하겠습니다.
 
 ## 백준
 | 번호  | 제목   | 풀이                                                                |
@@ -61,6 +61,7 @@
 | 15552 | [빠른 A+B](./baekjoon/15552/README.md) | [node.js](./baekjoon/15552/node.js) / [Rust](./baekjoon/15552/rust.rs) |
 | 18108 | [1998년생인 내가 태국에서는 2541년생?!](./baekjoon/18108/README.md) | [node.js](./baekjoon/18108/node.js) / [Rust](./baekjoon/18108/rust.rs) |
 | 25083 | [새싹](./baekjoon/25083/README.md) | [node.js](./baekjoon/25083/node.js) / [Rust](./baekjoon/25083/rust.rs) |
+| 25206 | [너의 평점은](./baekjoon/25206/README.md) | [node.js](./baekjoon/25206/node.js) / [Rust](./baekjoon/25206/rust.rs) |
 | 25304 | [영수증](./baekjoon/25304/README.md) | [node.js](./baekjoon/25304/node.js) / [Rust](./baekjoon/25304/rust.rs) |
 | 25314 | [코딩은 체육과목 입니다](./baekjoon/25314/README.md) | [node.js](./baekjoon/25314/node.js) / [Rust](./baekjoon/25314/rust.rs) |
 | 27866 | [문자와 문자열](./baekjoon/27866/README.md) | [node.js](./baekjoon/27866/node.js) / [Rust](./baekjoon/27866/rust.rs) |
