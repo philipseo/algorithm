@@ -13,8 +13,8 @@ const dial = {
 };
 let result = inputs.length;
 
-for (input of inputs) {
-    for ([key, value] of Object.entries(dial)) {
+for (const input of inputs) {
+    for (const [key, value] of Object.entries(dial)) {
         if (value.includes(input)) {
             result += parseInt(key);
             break;

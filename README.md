@@ -9,6 +9,7 @@
 | 1152 | [단어의 개수](./baekjoon/1152/README.md) | [node.js](./baekjoon/1152/node.js) / [Rust](./baekjoon/1152/rust.rs) |
 | 1157 | [단어 공부](./baekjoon/1157/README.md) | [node.js](./baekjoon/1157/node.js) / [Rust](./baekjoon/1157/rust.rs) |
 | 1271 | [엄청난 부자2](./baekjoon/1271/README.md) | [node.js](./baekjoon/1271/node.js) |
+| 1316 | [그룹 단어 체커](./baekjoon/1316/README.md) | [node.js](./baekjoon/1316/node.js) / [Rust](./baekjoon/1316/rust.rs) |
 | 1330 | [두 수 비교하기](./baekjoon/1330/README.md) | [node.js](./baekjoon/1330/node.js) / [Rust](./baekjoon/1330/rust.rs) |
 | 1546 | [평균](./baekjoon/1546/README.md) | [node.js](./baekjoon/1546/node.js) / [Rust](./baekjoon/1546/rust.rs) |
 | 2438 | [별 찍기 - 1](./baekjoon/2438/README.md) | [node.js](./baekjoon/2438/node.js) / [Rust](./baekjoon/2438/rust.rs) |
@@ -25,6 +26,7 @@
 | 2753 | [윤년](./baekjoon/2753/README.md) | [node.js](./baekjoon/2753/node.js) / [Rust](./baekjoon/2753/rust.rs) |
 | 2884 | [알람 시계](./baekjoon/2884/README.md) | [node.js](./baekjoon/2884/node.js) / [Rust](./baekjoon/2884/rust.rs) |
 | 2908 | [상수](./baekjoon/2908/README.md) | [node.js](./baekjoon/2908/node.js) / [Rust](./baekjoon/2908/rust.rs) |
+| 2941 | [크로아티아 알파벳](./baekjoon/2941/README.md) | [node.js](./baekjoon/2941/node.js) / [Rust](./baekjoon/2941/rust.rs) |
 | 3003 | [킹, 퀸, 룩, 비숍, 나이트, 폰](./baekjoon/3003/README.md) | [node.js](./baekjoon/3003/node.js) / [Rust](./baekjoon/3003/rust.rs) |
 | 3052 | [나머지](./baekjoon/3052/README.md) | [node.js](./baekjoon/3052/node.js) / [Rust](./baekjoon/3052/rust.rs) |
 | 5597 | [과제 안 내신 분..?](./baekjoon/5597/README.md) | [node.js](./baekjoon/5597/node.js) / [Rust](./baekjoon/5597/rust.rs) |
