@@ -19,6 +19,7 @@
 | 2525 | [오븐 시계](./baekjoon/2525/README.md) | [node.js](./baekjoon/2525/node.js) / [Rust](./baekjoon/2525/rust.rs) |
 | 2557 | [Hello World](./baekjoon/2557/README.md) | [node.js](./baekjoon/2557/node.js) / [Rust](./baekjoon/2557/rust.rs) |
 | 2562 | [최댓값](./baekjoon/2562/README.md) | [node.js](./baekjoon/2562/node.js) / [Rust](./baekjoon/2562/rust.rs) |
+| 2566 | [최댓값](./baekjoon/2566/README.md) | [node.js](./baekjoon/2566/node.js) / [Rust](./baekjoon/2566/rust.rs) |
 | 2588 | [곱셈](./baekjoon/2588/README.md) | [node.js](./baekjoon/2588/node.js) / [Rust](./baekjoon/2588/rust.rs) |
 | 2675 | [문자열 반복](./baekjoon/2675/README.md) | [node.js](./baekjoon/2675/node.js) / [Rust](./baekjoon/2675/rust.rs) |
 | 2738 | [행렬 덧셈](./baekjoon/2738/README.md) | [node.js](./baekjoon/2738/node.js) / [Rust](./baekjoon/2738/rust.rs) |
