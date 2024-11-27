@@ -19,6 +19,7 @@
 | 2525 | [오븐 시계](./baekjoon/2525/README.md) | [node.js](./baekjoon/2525/node.js) / [Rust](./baekjoon/2525/rust.rs) |
 | 2557 | [Hello World](./baekjoon/2557/README.md) | [node.js](./baekjoon/2557/node.js) / [Rust](./baekjoon/2557/rust.rs) |
 | 2562 | [최댓값](./baekjoon/2562/README.md) | [node.js](./baekjoon/2562/node.js) / [Rust](./baekjoon/2562/rust.rs) |
+| 2563 | [색종이](./baekjoon/2563/README.md) | [node.js](./baekjoon/2563/node.js) / [Rust](./baekjoon/2563/rust.rs) |
 | 2566 | [최댓값](./baekjoon/2566/README.md) | [node.js](./baekjoon/2566/node.js) / [Rust](./baekjoon/2566/rust.rs) |
 | 2588 | [곱셈](./baekjoon/2588/README.md) | [node.js](./baekjoon/2588/node.js) / [Rust](./baekjoon/2588/rust.rs) |
 | 2675 | [문자열 반복](./baekjoon/2675/README.md) | [node.js](./baekjoon/2675/node.js) / [Rust](./baekjoon/2675/rust.rs) |
@@ -39,7 +40,8 @@
 | 10171 | [고양이](./baekjoon/10171/README.md) | [node.js](./baekjoon/10171/node.js) / [Rust](./baekjoon/10171/rust.rs) |
 | 10172 | [개](./baekjoon/10172nREADME.md)  | [node.js](./baekjoon/10172node.js) / [Rust](./baekjoon/10172rust.rs) |
 | 10430 | [나머지](./baekjoon/10430/README.md) | [node.js](./baekjoon/10430/node.js) / [Rust](./baekjoon/10430/rust.rs) |
-| 10807 | [개수 세기](./baekjoon/10807/README.md) | [node.js](./baekjoon/10807/node.js) / [Rust](./baekjoon/1271/rust.rs) |
+| 10798 | [세로 읽기](./baekjoon/10798/README.md) | [node.js](./baekjoon/10798/node.js) / [Rust](./baekjoon/10798/rust.rs) |
+| 10807 | [개수 세기](./baekjoon/10807/README.md) | [node.js](./baekjoon/10807/node.js) / [Rust](./baekjoon/10807/rust.rs) |
 | 10809 | [알파벳 찾기](./baekjoon/10809/README.md) | [node.js](./baekjoon/10809/node.js) / [Rust](./baekjoon/10809/rust.rs) |
 | 10810 | [공 넣기](./baekjoon/10810/README.md) | [node.js](./baekjoon/10810/node.js) / [Rust](./baekjoon/10810/rust.rs) |
 | 10811 | [바구니 뒤집기](./baekjoon/10811/README.md) | [node.js](./baekjoon/10811/node.js) / [Rust](./baekjoon/10811/rust.rs) |
