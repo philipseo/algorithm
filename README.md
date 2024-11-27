@@ -26,6 +26,7 @@
 | 2738 | [행렬 덧셈](./baekjoon/2738/README.md) | [node.js](./baekjoon/2738/node.js) / [Rust](./baekjoon/2738/rust.rs) |
 | 2739 | [구구단](./baekjoon/2739/README.md) | [node.js](./baekjoon/2739/node.js) / [Rust](./baekjoon/2739/rust.rs) |
 | 2743 | [단어 길이 재기](./baekjoon/2743/README.md) | [node.js](./baekjoon/2743/node.js) / [Rust](./baekjoon/2743/rust.rs) |
+| 2745 | [진법 변환](./baekjoon/2745/README.md) | [node.js](./baekjoon/2745/node.js) / [Rust](./baekjoon/2745/rust.rs) |
 | 2753 | [윤년](./baekjoon/2753/README.md) | [node.js](./baekjoon/2753/node.js) / [Rust](./baekjoon/2753/rust.rs) |
 | 2884 | [알람 시계](./baekjoon/2884/README.md) | [node.js](./baekjoon/2884/node.js) / [Rust](./baekjoon/2884/rust.rs) |
 | 2908 | [상수](./baekjoon/2908/README.md) | [node.js](./baekjoon/2908/node.js) / [Rust](./baekjoon/2908/rust.rs) |
