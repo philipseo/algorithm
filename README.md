@@ -56,6 +56,7 @@
 | 10952 | [A+B - 5](./baekjoon/10952/README.md) | [node.js](./baekjoon/10952/node.js) / [Rust](./baekjoon/10952/rust.rs) |
 | 10988 | [팰린드롬인지 확인하기](./baekjoon/10988/README.md) | [node.js](./baekjoon/10988/node.js) / [Rust](./baekjoon/10988/rust.rs) |
 | 10998 | [AxB](./baekjoon/10998/README.md) | [node.js](./baekjoon/10998/node.js) / [Rust](./baekjoon/10998/rust.rs) |
+| 11005 | [진법 변환2](./baekjoon/11005/README.md) | [node.js](./baekjoon/11005/node.js) / [Rust](./baekjoon/11005/rust.rs) |
 | 11021 | [A+B - 7](./baekjoon/11021/README.md) | [node.js](./baekjoon/11021/node.js) / [Rust](./baekjoon/11021/rust.rs) |
 | 11022 | [A+B - 8](./baekjoon/11022/README.md) | [node.js](./baekjoon/11022/node.js) / [Rust](./baekjoon/11022/rust.rs) |
 | 11382 | [꼬마 정민](./baekjoon/11382/README.md) | [node.js](./baekjoon/11382/node.js) / [Rust](./baekjoon/11382/rust.rs) |
