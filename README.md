@@ -23,6 +23,7 @@
 | 2566 | [최댓값](./baekjoon/2566/README.md) | [node.js](./baekjoon/2566/node.js) / [Rust](./baekjoon/2566/rust.rs) |
 | 2588 | [곱셈](./baekjoon/2588/README.md) | [node.js](./baekjoon/2588/node.js) / [Rust](./baekjoon/2588/rust.rs) |
 | 2675 | [문자열 반복](./baekjoon/2675/README.md) | [node.js](./baekjoon/2675/node.js) / [Rust](./baekjoon/2675/rust.rs) |
+| 2720 | [세탁소 사장 동혁](./baekjoon/2720/README.md) | [node.js](./baekjoon/2720/node.js) / [Rust](./baekjoon/2720/rust.rs) |
 | 2738 | [행렬 덧셈](./baekjoon/2738/README.md) | [node.js](./baekjoon/2738/node.js) / [Rust](./baekjoon/2738/rust.rs) |
 | 2739 | [구구단](./baekjoon/2739/README.md) | [node.js](./baekjoon/2739/node.js) / [Rust](./baekjoon/2739/rust.rs) |
 | 2743 | [단어 길이 재기](./baekjoon/2743/README.md) | [node.js](./baekjoon/2743/node.js) / [Rust](./baekjoon/2743/rust.rs) |
