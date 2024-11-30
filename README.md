@@ -30,6 +30,7 @@
 | 2745 | [진법 변환](./baekjoon/2745/README.md) | [node.js](./baekjoon/2745/node.js) / [Rust](./baekjoon/2745/rust.rs) |
 | 2753 | [윤년](./baekjoon/2753/README.md) | [node.js](./baekjoon/2753/node.js) / [Rust](./baekjoon/2753/rust.rs) |
 | 2884 | [알람 시계](./baekjoon/2884/README.md) | [node.js](./baekjoon/2884/node.js) / [Rust](./baekjoon/2884/rust.rs) |
+| 2903 | [중앙 이동 알고리즘](./baekjoon/2903/README.md) | [node.js](./baekjoon/2903/node.js) / [Rust](./baekjoon/2903/rust.rs) |
 | 2908 | [상수](./baekjoon/2908/README.md) | [node.js](./baekjoon/2908/node.js) / [Rust](./baekjoon/2908/rust.rs) |
 | 2941 | [크로아티아 알파벳](./baekjoon/2941/README.md) | [node.js](./baekjoon/2941/node.js) / [Rust](./baekjoon/2941/rust.rs) |
 | 3003 | [킹, 퀸, 룩, 비숍, 나이트, 폰](./baekjoon/3003/README.md) | [node.js](./baekjoon/3003/node.js) / [Rust](./baekjoon/3003/rust.rs) |
