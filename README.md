@@ -12,6 +12,7 @@
 | 1316 | [그룹 단어 체커](./baekjoon/1316/README.md) | [node.js](./baekjoon/1316/node.js) / [Rust](./baekjoon/1316/rust.rs) |
 | 1330 | [두 수 비교하기](./baekjoon/1330/README.md) | [node.js](./baekjoon/1330/node.js) / [Rust](./baekjoon/1330/rust.rs) |
 | 1546 | [평균](./baekjoon/1546/README.md) | [node.js](./baekjoon/1546/node.js) / [Rust](./baekjoon/1546/rust.rs) |
+| 2292 | [벌집](./baekjoon/2292/README.md) | [node.js](./baekjoon/2292/node.js) / [Rust](./baekjoon/2292/rust.rs) |
 | 2438 | [별 찍기 - 1](./baekjoon/2438/README.md) | [node.js](./baekjoon/2438/node.js) / [Rust](./baekjoon/2438/rust.rs) |
 | 2439 | [별 찍기 - 2](./baekjoon/2439/README.md) | [node.js](./baekjoon/2439/node.js) / [Rust](./baekjoon/2439/rust.rs) |
 | 2444 | [별 찍기 - 7](./baekjoon/2444/README.md) | [node.js](./baekjoon/2444/node.js) / [Rust](./baekjoon/2444/rust.rs) |
