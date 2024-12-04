@@ -38,6 +38,7 @@
 | 2941 | [크로아티아 알파벳](./baekjoon/2941/README.md) | [node.js](./baekjoon/2941/node.js) / [Rust](./baekjoon/2941/rust.rs) |
 | 3003 | [킹, 퀸, 룩, 비숍, 나이트, 폰](./baekjoon/3003/README.md) | [node.js](./baekjoon/3003/node.js) / [Rust](./baekjoon/3003/rust.rs) |
 | 3052 | [나머지](./baekjoon/3052/README.md) | [node.js](./baekjoon/3052/node.js) / [Rust](./baekjoon/3052/rust.rs) |
+| 5086 | [배수와 약수](./baekjoon/5086/README.md) | [node.js](./baekjoon/5086/node.js) / [Rust](./baekjoon/5086/rust.rs) |
 | 5597 | [과제 안 내신 분..?](./baekjoon/5597/README.md) | [node.js](./baekjoon/5597/node.js) / [Rust](./baekjoon/5597/rust.rs) |
 | 5622 | [다이얼](./baekjoon/5622/README.md) | [node.js](./baekjoon/5622/node.js) / [Rust](./baekjoon/5622/rust.rs) |
 | 8393 | [합](./baekjoon/8393/README.md) | [node.js](./baekjoon/8393/node.js) / [Rust](./baekjoon/8393/rust.rs) |
