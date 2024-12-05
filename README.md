@@ -18,6 +18,7 @@
 | 2439 | [별 찍기 - 2](./baekjoon/2439/README.md) | [node.js](./baekjoon/2439/node.js) / [Rust](./baekjoon/2439/rust.rs) |
 | 2444 | [별 찍기 - 7](./baekjoon/2444/README.md) | [node.js](./baekjoon/2444/node.js) / [Rust](./baekjoon/2444/rust.rs) |
 | 2480 | [주사위 세개](./baekjoon/2480/README.md) | [node.js](./baekjoon/2480/node.js) / [Rust](./baekjoon/2480/rust.rs) |
+| 2501 | [약수 구하기](./baekjoon/2501/README.md) | [node.js](./baekjoon/2501/node.js) / [Rust](./baekjoon/2501/rust.rs) |
 | 2525 | [오븐 시계](./baekjoon/2525/README.md) | [node.js](./baekjoon/2525/node.js) / [Rust](./baekjoon/2525/rust.rs) |
 | 2557 | [Hello World](./baekjoon/2557/README.md) | [node.js](./baekjoon/2557/node.js) / [Rust](./baekjoon/2557/rust.rs) |
 | 2562 | [최댓값](./baekjoon/2562/README.md) | [node.js](./baekjoon/2562/node.js) / [Rust](./baekjoon/2562/rust.rs) |
