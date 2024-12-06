@@ -45,6 +45,7 @@
 | 8393 | [합](./baekjoon/8393/README.md) | [node.js](./baekjoon/8393/node.js) / [Rust](./baekjoon/8393/rust.rs) |
 | 9086 | [문자열](./baekjoon/9086/README.md) | [node.js](./baekjoon/9086/node.js) / [Rust](./baekjoon/9086/rust.rs) |
 | 9498 | [시험 성적](./baekjoon/9498/README.md) | [node.js](./baekjoon/9498/node.js) / [Rust](./baekjoon/9498/rust.rs) |
+| 9506 | [약수들의 합](./baekjoon/9506/README.md) | [node.js](./baekjoon/9506/node.js) / [Rust](./baekjoon/9506/rust.rs) |
 | 10171 | [고양이](./baekjoon/10171/README.md) | [node.js](./baekjoon/10171/node.js) / [Rust](./baekjoon/10171/rust.rs) |
 | 10172 | [개](./baekjoon/10172nREADME.md)  | [node.js](./baekjoon/10172node.js) / [Rust](./baekjoon/10172rust.rs) |
 | 10430 | [나머지](./baekjoon/10430/README.md) | [node.js](./baekjoon/10430/node.js) / [Rust](./baekjoon/10430/rust.rs) |
