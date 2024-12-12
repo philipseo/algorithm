@@ -78,6 +78,7 @@
 | 11720 | [숫자의 합](./baekjoon/11720/README.md) | [node.js](./baekjoon/11720/node.js) / [Rust](./baekjoon/11720/rust.rs) |
 | 14681 | [사분면 고르기](./baekjoon/14681/README.md) | [node.js](./baekjoon/14681/node.js) / [Rust](./baekjoon/14681/rust.rs) |
 | 15552 | [빠른 A+B](./baekjoon/15552/README.md) | [node.js](./baekjoon/15552/node.js) / [Rust](./baekjoon/15552/rust.rs) |
+| 15894 | [수학은 체육과목 입니다](./baekjoon/15894/README.md) | [node.js](./baekjoon/15894/node.js) / [Rust](./baekjoon/15894/rust.rs) |
 | 18108 | [1998년생인 내가 태국에서는 2541년생?!](./baekjoon/18108/README.md) | [node.js](./baekjoon/18108/node.js) / [Rust](./baekjoon/18108/rust.rs) |
 | 25083 | [새싹](./baekjoon/25083/README.md) | [node.js](./baekjoon/25083/node.js) / [Rust](./baekjoon/25083/rust.rs) |
 | 25206 | [너의 평점은](./baekjoon/25206/README.md) | [node.js](./baekjoon/25206/node.js) / [Rust](./baekjoon/25206/rust.rs) |
