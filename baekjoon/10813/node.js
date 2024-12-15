@@ -6,7 +6,7 @@ const basket = Array.from({ length: n }, (_, index) => index + 1);
 
 for (const input of inputs) {
    const [i, j] = input.trim().split(' ').map((number) => {
-    return parseInt(number - 1);
+     return parseInt(number - 1);
    });
    const tempI = basket[i];
    basket[i] = basket[j];
