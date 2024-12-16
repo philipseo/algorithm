@@ -79,6 +79,7 @@
 | 11654 | [아스키 코드](./baekjoon/11654/README.md) | [node.js](./baekjoon/11654/node.js) / [Rust](./baekjoon/11654/rust.rs) |
 | 11718 | [그대로 출력하기](./baekjoon/11718/README.md) | [node.js](./baekjoon/11718/node.js) / [Rust](./baekjoon/11718/rust.rs) |
 | 11720 | [숫자의 합](./baekjoon/11720/README.md) | [node.js](./baekjoon/11720/node.js) / [Rust](./baekjoon/11720/rust.rs) |
+| 14215 | [세 막대](./baekjoon/14215/README.md) | [node.js](./baekjoon/14215/node.js) / [Rust](./baekjoon/14215/rust.rs) |
 | 14681 | [사분면 고르기](./baekjoon/14681/README.md) | [node.js](./baekjoon/14681/node.js) / [Rust](./baekjoon/14681/rust.rs) |
 | 15552 | [빠른 A+B](./baekjoon/15552/README.md) | [node.js](./baekjoon/15552/node.js) / [Rust](./baekjoon/15552/rust.rs) |
 | 15894 | [수학은 체육과목 입니다](./baekjoon/15894/README.md) | [node.js](./baekjoon/15894/node.js) / [Rust](./baekjoon/15894/rust.rs) |
