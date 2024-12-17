@@ -84,6 +84,13 @@
 | 15552 | [빠른 A+B](./baekjoon/15552/README.md) | [node.js](./baekjoon/15552/node.js) / [Rust](./baekjoon/15552/rust.rs) |
 | 15894 | [수학은 체육과목 입니다](./baekjoon/15894/README.md) | [node.js](./baekjoon/15894/node.js) / [Rust](./baekjoon/15894/rust.rs) |
 | 18108 | [1998년생인 내가 태국에서는 2541년생?!](./baekjoon/18108/README.md) | [node.js](./baekjoon/18108/node.js) / [Rust](./baekjoon/18108/rust.rs) |
+| 24262 | [알고리즘 수업 - 알고리즘의 수행 시간1](./baekjoon/24262/README.md) | [node.js](./baekjoon/24262/node.js) / [Rust](./baekjoon/24262/rust.rs) |
+| 24263 | [알고리즘 수업 - 알고리즘의 수행 시간2](./baekjoon/24263/README.md) | [node.js](./baekjoon/24263/node.js) / [Rust](./baekjoon/24263/rust.rs) |
+| 24264 | [알고리즘 수업 - 알고리즘의 수행 시간3](./baekjoon/24264/README.md) | [node.js](./baekjoon/24264/node.js) / [Rust](./baekjoon/24264/rust.rs) |
+| 24265 | [알고리즘 수업 - 알고리즘의 수행 시간4](./baekjoon/24265/README.md) | [node.js](./baekjoon/24265/node.js) / [Rust](./baekjoon/24265/rust.rs) |
+| 24266 | [알고리즘 수업 - 알고리즘의 수행 시간5](./baekjoon/24266/README.md) | [node.js](./baekjoon/24266/node.js) / [Rust](./baekjoon/24266/rust.rs) |
+| 24267 | [알고리즘 수업 - 알고리즘의 수행 시간6](./baekjoon/24267/README.md) | [node.js](./baekjoon/24267/node.js) / [Rust](./baekjoon/24267/rust.rs) |
+| 24313 | [알고리즘 수업 - 점근적 표기1](./baekjoon/24313/README.md) | [node.js](./baekjoon/24313/node.js) / [Rust](./baekjoon/24313/rust.rs) |
 | 25083 | [새싹](./baekjoon/25083/README.md) | [node.js](./baekjoon/25083/node.js) / [Rust](./baekjoon/25083/rust.rs) |
 | 25206 | [너의 평점은](./baekjoon/25206/README.md) | [node.js](./baekjoon/25206/node.js) / [Rust](./baekjoon/25206/rust.rs) |
 | 25304 | [영수증](./baekjoon/25304/README.md) | [node.js](./baekjoon/25304/node.js) / [Rust](./baekjoon/25304/rust.rs) |
