@@ -15,6 +15,7 @@
 | 1330 | [두 수 비교하기](./baekjoon/1330/README.md) | [node.js](./baekjoon/1330/node.js) / [Rust](./baekjoon/1330/rust.rs) |
 | 1546 | [평균](./baekjoon/1546/README.md) | [node.js](./baekjoon/1546/node.js) / [Rust](./baekjoon/1546/rust.rs) |
 | 1978 | [소수 찾기](./baekjoon/1978/README.md) | [node.js](./baekjoon/1978/node.js) / [Rust](./baekjoon/1978/rust.rs) |
+| 2231 | [분해합](./baekjoon/2231/README.md) | [node.js](./baekjoon/2231/node.js) / [Rust](./baekjoon/2231/rust.rs) |
 | 2292 | [벌집](./baekjoon/2292/README.md) | [node.js](./baekjoon/2292/node.js) / [Rust](./baekjoon/2292/rust.rs) |
 | 2438 | [별 찍기 - 1](./baekjoon/2438/README.md) | [node.js](./baekjoon/2438/node.js) / [Rust](./baekjoon/2438/rust.rs) |
 | 2439 | [별 찍기 - 2](./baekjoon/2439/README.md) | [node.js](./baekjoon/2439/node.js) / [Rust](./baekjoon/2439/rust.rs) |
