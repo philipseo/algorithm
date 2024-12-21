@@ -6,6 +6,7 @@
 | 1000 | [A+B](./baekjoon/1000/README.md) | [node.js](./baekjoon/1000/node.js) / [Rust](./baekjoon/1000/rust.rs) |
 | 1001 | [A-B](./baekjoon/1001/README.md) | [node.js](./baekjoon/1001/node.js) / [Rust](./baekjoon/1001/rust.rs) |
 | 1008 | [A/B](./baekjoon/1008/README.md) | [node.js](./baekjoon/1008/node.js) / [Rust](./baekjoon/1008/rust.rs) |
+| 1018 | [체스판 다시 칠하기](./baekjoon/1018/README.md) | [node.js](./baekjoon/1018/node.js) / [Rust](./baekjoon/1018/rust.rs) |
 | 1085 | [직사각형에서 탈출](./baekjoon/1085/README.md) | [node.js](./baekjoon/1085/node.js) / [Rust](./baekjoon/1085/rust.rs) |
 | 1152 | [단어의 개수](./baekjoon/1152/README.md) | [node.js](./baekjoon/1152/node.js) / [Rust](./baekjoon/1152/rust.rs) |
 | 1157 | [단어 공부](./baekjoon/1157/README.md) | [node.js](./baekjoon/1157/node.js) / [Rust](./baekjoon/1157/rust.rs) |
