@@ -102,6 +102,7 @@
 | 25083 | [새싹](./baekjoon/25083/README.md) | [node.js](./baekjoon/25083/node.js) / [Rust](./baekjoon/25083/rust.rs) |
 | 25206 | [너의 평점은](./baekjoon/25206/README.md) | [node.js](./baekjoon/25206/node.js) / [Rust](./baekjoon/25206/rust.rs) |
 | 25304 | [영수증](./baekjoon/25304/README.md) | [node.js](./baekjoon/25304/node.js) / [Rust](./baekjoon/25304/rust.rs) |
+| 25305 | [커트라인](./baekjoon/25305/README.md) | [node.js](./baekjoon/25305/node.js) / [Rust](./baekjoon/25305/rust.rs) |
 | 25314 | [코딩은 체육과목 입니다](./baekjoon/25314/README.md) | [node.js](./baekjoon/25314/node.js) / [Rust](./baekjoon/25314/rust.rs) |
 | 27323 | [직사각형](./baekjoon/27323/README.md) | [node.js](./baekjoon/27323/node.js) / [Rust](./baekjoon/27323/rust.rs) |
 | 27866 | [문자와 문자열](./baekjoon/27866/README.md) | [node.js](./baekjoon/27866/node.js) / [Rust](./baekjoon/27866/rust.rs) |
