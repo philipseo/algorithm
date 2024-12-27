@@ -39,6 +39,7 @@
 | 2743 | [단어 길이 재기](./baekjoon/2743/README.md) | [node.js](./baekjoon/2743/node.js) / [Rust](./baekjoon/2743/rust.rs) |
 | 2745 | [진법 변환](./baekjoon/2745/README.md) | [node.js](./baekjoon/2745/node.js) / [Rust](./baekjoon/2745/rust.rs) |
 | 2750 | [수 정렬하기](./baekjoon/2750/README.md) | [node.js](./baekjoon/2750/node.js) / [Rust](./baekjoon/2750/rust.rs) |
+| 2751 | [수 정렬하기2](./baekjoon/2751/README.md) | [node.js](./baekjoon/2751/node.js) / [Rust](./baekjoon/2751/rust.rs) |
 | 2753 | [윤년](./baekjoon/2753/README.md) | [node.js](./baekjoon/2753/node.js) / [Rust](./baekjoon/2753/rust.rs) |
 | 2798 | [블랙잭](./baekjoon/2798/README.md) | [node.js](./baekjoon/2798/node.js) / [Rust](./baekjoon/2798/rust.rs) |
 | 2839 | [설탕 배달](./baekjoon/2839/README.md) | [node.js](./baekjoon/2839/node.js) / [Rust](./baekjoon/2839/rust.rs) |
