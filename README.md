@@ -14,6 +14,7 @@
 | 1271 | [엄청난 부자2](./baekjoon/1271/README.md) | [node.js](./baekjoon/1271/node.js) |
 | 1316 | [그룹 단어 체커](./baekjoon/1316/README.md) | [node.js](./baekjoon/1316/node.js) / [Rust](./baekjoon/1316/rust.rs) |
 | 1330 | [두 수 비교하기](./baekjoon/1330/README.md) | [node.js](./baekjoon/1330/node.js) / [Rust](./baekjoon/1330/rust.rs) |
+| 1427 | [소트인사이드](./baekjoon/1427/README.md) | [node.js](./baekjoon/1427/node.js) / [Rust](./baekjoon/1427/rust.rs) |
 | 1436 | [영화감독 숌](./baekjoon/1436/README.md) | [node.js](./baekjoon/1436/node.js) / [Rust](./baekjoon/1436/rust.rs) |
 | 1546 | [평균](./baekjoon/1546/README.md) | [node.js](./baekjoon/1546/node.js) / [Rust](./baekjoon/1546/rust.rs) |
 | 1978 | [소수 찾기](./baekjoon/1978/README.md) | [node.js](./baekjoon/1978/node.js) / [Rust](./baekjoon/1978/rust.rs) |
