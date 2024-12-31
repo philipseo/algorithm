@@ -86,6 +86,7 @@
 | 11022 | [A+B - 8](./baekjoon/11022/README.md) | [node.js](./baekjoon/11022/node.js) / [Rust](./baekjoon/11022/rust.rs) |
 | 11382 | [꼬마 정민](./baekjoon/11382/README.md) | [node.js](./baekjoon/11382/node.js) / [Rust](./baekjoon/11382/rust.rs) |
 | 11650 | [좌표 정렬하기](./baekjoon/11650/README.md) | [node.js](./baekjoon/11650/node.js) / [Rust](./baekjoon/11650/rust.rs) |
+| 11651 | [좌표 정렬하기 2](./baekjoon/11651/README.md) | [node.js](./baekjoon/11651/node.js) / [Rust](./baekjoon/11651/rust.rs) |
 | 11653 | [소인수분해](./baekjoon/11653/README.md) | [node.js](./baekjoon/11653/node.js) / [Rust](./baekjoon/11653/rust.rs) |
 | 11654 | [아스키 코드](./baekjoon/11654/README.md) | [node.js](./baekjoon/11654/node.js) / [Rust](./baekjoon/11654/rust.rs) |
 | 11718 | [그대로 출력하기](./baekjoon/11718/README.md) | [node.js](./baekjoon/11718/node.js) / [Rust](./baekjoon/11718/rust.rs) |
