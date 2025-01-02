@@ -71,7 +71,8 @@
 | 10809 | [알파벳 찾기](./baekjoon/10809/README.md) | [node.js](./baekjoon/10809/node.js) / [Rust](./baekjoon/10809/rust.rs) |
 | 10810 | [공 넣기](./baekjoon/10810/README.md) | [node.js](./baekjoon/10810/node.js) / [Rust](./baekjoon/10810/rust.rs) |
 | 10811 | [바구니 뒤집기](./baekjoon/10811/README.md) | [node.js](./baekjoon/10811/node.js) / [Rust](./baekjoon/10811/rust.rs) |
-| 10813 | [공 바꾸기](./baekjoon/10811/README.md) | [node.js](./baekjoon/10811/node.js) / [Rust](./baekjoon/10811/rust.rs) |
+| 10813 | [공 바꾸기](./baekjoon/10813/README.md) | [node.js](./baekjoon/10813/node.js) / [Rust](./baekjoon/10813/rust.rs) |
+| 10814 | [나이순 정렬](./baekjoon/10814/README.md) | [node.js](./baekjoon/10814/node.js) / [Rust](./baekjoon/10814/rust.rs) |
 | 10818 | [최소, 최대](./baekjoon/10818/README.md) | [node.js](./baekjoon/10818/node.js) / [Rust](./baekjoon/10818/rust.rs) |
 | 10869 | [사칙연산](./baekjoon/10869/README.md) | [node.js](./baekjoon/10869/node.js) / [Rust](./baekjoon/10869/rust.rs) |
 | 10871 | [X보다 작은 수](./baekjoon/10871/README.md) | [node.js](./baekjoon/10871/node.js) / [Rust](./baekjoon/10871/rust.rs) |
