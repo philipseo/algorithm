@@ -81,8 +81,8 @@
 | 10950 | [A+B - 3](./baekjoon/10950/README.md) | [node.js](./baekjoon/10950/node.js) / [Rust](./baekjoon/10950/rust.rs) |
 | 10951 | [A+B - 4](./baekjoon/10951/README.md) | [node.js](./baekjoon/10951/node.js) / [Rust](./baekjoon/10951/rust.rs) |
 | 10952 | [A+B - 5](./baekjoon/10952/README.md) | [node.js](./baekjoon/10952/node.js) / [Rust](./baekjoon/10952/rust.rs) |
-| 10988 | [팰린드롬인지 확인하기](./baekjoon/10988/README.md) | [Rust](./baekjoon/10988/rust.rs) |
-| 10989 | [수 정렬하기3](./baekjoon/10989/README.md) | [node.js](./baekjoon/10989/node.js) / [Rust](./baekjoon/10989/rust.rs) |
+| 10988 | [팰린드롬인지 확인하기](./baekjoon/10988/README.md) |  [node.js](./baekjoon/10988/node.js) / [Rust](./baekjoon/10988/rust.rs) |
+| 10989 | [수 정렬하기3](./baekjoon/10989/README.md) | [Rust](./baekjoon/10989/rust.rs) |
 | 10998 | [AxB](./baekjoon/10998/README.md) | [node.js](./baekjoon/10998/node.js) / [Rust](./baekjoon/10998/rust.rs) |
 | 11005 | [진법 변환2](./baekjoon/11005/README.md) | [node.js](./baekjoon/11005/node.js) / [Rust](./baekjoon/11005/rust.rs) |
 | 11021 | [A+B - 7](./baekjoon/11021/README.md) | [node.js](./baekjoon/11021/node.js) / [Rust](./baekjoon/11021/rust.rs) |
