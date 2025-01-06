@@ -57,6 +57,7 @@
 | 5086 | [배수와 약수](./baekjoon/5086/README.md) | [node.js](./baekjoon/5086/node.js) / [Rust](./baekjoon/5086/rust.rs) |
 | 5597 | [과제 안 내신 분..?](./baekjoon/5597/README.md) | [node.js](./baekjoon/5597/node.js) / [Rust](./baekjoon/5597/rust.rs) |
 | 5622 | [다이얼](./baekjoon/5622/README.md) | [node.js](./baekjoon/5622/node.js) / [Rust](./baekjoon/5622/rust.rs) |
+| 7785 | [회사에 있는 사람](./baekjoon/7785/README.md) | [node.js](./baekjoon/7785/node.js) / [Rust](./baekjoon/7785/rust.rs) |
 | 8393 | [합](./baekjoon/8393/README.md) | [node.js](./baekjoon/8393/node.js) / [Rust](./baekjoon/8393/rust.rs) |
 | 9063 | [대지](./baekjoon/9063/README.md) | [node.js](./baekjoon/9063/node.js) / [Rust](./baekjoon/9063/rust.rs) |
 | 9086 | [문자열](./baekjoon/9086/README.md) | [node.js](./baekjoon/9086/node.js) / [Rust](./baekjoon/9086/rust.rs) |
