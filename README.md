@@ -10,6 +10,7 @@
 | 1085 | [직사각형에서 탈출](./baekjoon/1085/README.md) | [node.js](./baekjoon/1085/node.js) / [Rust](./baekjoon/1085/rust.rs) |
 | 1152 | [단어의 개수](./baekjoon/1152/README.md) | [node.js](./baekjoon/1152/node.js) / [Rust](./baekjoon/1152/rust.rs) |
 | 1157 | [단어 공부](./baekjoon/1157/README.md) | [node.js](./baekjoon/1157/node.js) / [Rust](./baekjoon/1157/rust.rs) |
+| 1181 | [단어 정렬](./baekjoon/1181/README.md) | [node.js](./baekjoon/1181/node.js) / [Rust](./baekjoon/1181/rust.rs) |
 | 1193 | [분수 찾기](./baekjoon/1193/README.md) | [node.js](./baekjoon/1193/node.js) / [Rust](./baekjoon/1193/rust.rs) |
 | 1271 | [엄청난 부자2](./baekjoon/1271/README.md) | [node.js](./baekjoon/1271/node.js) |
 | 1316 | [그룹 단어 체커](./baekjoon/1316/README.md) | [node.js](./baekjoon/1316/node.js) / [Rust](./baekjoon/1316/rust.rs) |
@@ -17,7 +18,7 @@
 | 1427 | [소트인사이드](./baekjoon/1427/README.md) | [node.js](./baekjoon/1427/node.js) / [Rust](./baekjoon/1427/rust.rs) |
 | 1436 | [영화감독 숌](./baekjoon/1436/README.md) | [node.js](./baekjoon/1436/node.js) / [Rust](./baekjoon/1436/rust.rs) |
 | 1546 | [평균](./baekjoon/1546/README.md) | [node.js](./baekjoon/1546/node.js) / [Rust](./baekjoon/1546/rust.rs) |
-| 1181 | [단어 정렬](./baekjoon/1181/README.md) | [node.js](./baekjoon/1181/node.js) / [Rust](./baekjoon/1181/rust.rs) |
+| 1620 | [나는야 포켓몬 마스터 이다솜](./baekjoon/1620/README.md) | [node.js](./baekjoon/1620/node.js) / [Rust](./baekjoon/1620/rust.rs) |
 | 1978 | [소수 찾기](./baekjoon/1978/README.md) | [node.js](./baekjoon/1978/node.js) / [Rust](./baekjoon/1978/rust.rs) |
 | 2231 | [분해합](./baekjoon/2231/README.md) | [node.js](./baekjoon/2231/node.js) / [Rust](./baekjoon/2231/rust.rs) |
 | 2292 | [벌집](./baekjoon/2292/README.md) | [node.js](./baekjoon/2292/node.js) / [Rust](./baekjoon/2292/rust.rs) |
