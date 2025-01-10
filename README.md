@@ -12,6 +12,7 @@
 | 1157 | [단어 공부](./baekjoon/1157/README.md) | [node.js](./baekjoon/1157/node.js) / [Rust](./baekjoon/1157/rust.rs) |
 | 1181 | [단어 정렬](./baekjoon/1181/README.md) | [node.js](./baekjoon/1181/node.js) / [Rust](./baekjoon/1181/rust.rs) |
 | 1193 | [분수 찾기](./baekjoon/1193/README.md) | [node.js](./baekjoon/1193/node.js) / [Rust](./baekjoon/1193/rust.rs) |
+| 1269 | [대칭 차집합](./baekjoon/1269/README.md) | [node.js](./baekjoon/1269/node.js) |
 | 1271 | [엄청난 부자2](./baekjoon/1271/README.md) | [node.js](./baekjoon/1271/node.js) |
 | 1316 | [그룹 단어 체커](./baekjoon/1316/README.md) | [node.js](./baekjoon/1316/node.js) / [Rust](./baekjoon/1316/rust.rs) |
 | 1330 | [두 수 비교하기](./baekjoon/1330/README.md) | [node.js](./baekjoon/1330/node.js) / [Rust](./baekjoon/1330/rust.rs) |
