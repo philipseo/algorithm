@@ -12,7 +12,7 @@
 | 1157 | [단어 공부](./baekjoon/1157/README.md) | [node.js](./baekjoon/1157/node.js) / [Rust](./baekjoon/1157/rust.rs) |
 | 1181 | [단어 정렬](./baekjoon/1181/README.md) | [node.js](./baekjoon/1181/node.js) / [Rust](./baekjoon/1181/rust.rs) |
 | 1193 | [분수 찾기](./baekjoon/1193/README.md) | [node.js](./baekjoon/1193/node.js) / [Rust](./baekjoon/1193/rust.rs) |
-| 1269 | [대칭 차집합](./baekjoon/1269/README.md) | [node.js](./baekjoon/1269/node.js) |
+| 1269 | [대칭 차집합](./baekjoon/1269/README.md) | [node.js](./baekjoon/1269/node.js) / [Rust](./baekjoon/1269/rust.rs) |
 | 1271 | [엄청난 부자2](./baekjoon/1271/README.md) | [node.js](./baekjoon/1271/node.js) |
 | 1316 | [그룹 단어 체커](./baekjoon/1316/README.md) | [node.js](./baekjoon/1316/node.js) / [Rust](./baekjoon/1316/rust.rs) |
 | 1330 | [두 수 비교하기](./baekjoon/1330/README.md) | [node.js](./baekjoon/1330/node.js) / [Rust](./baekjoon/1330/rust.rs) |
@@ -93,6 +93,7 @@
 | 11021 | [A+B - 7](./baekjoon/11021/README.md) | [node.js](./baekjoon/11021/node.js) / [Rust](./baekjoon/11021/rust.rs) |
 | 11022 | [A+B - 8](./baekjoon/11022/README.md) | [node.js](./baekjoon/11022/node.js) / [Rust](./baekjoon/11022/rust.rs) |
 | 11382 | [꼬마 정민](./baekjoon/11382/README.md) | [node.js](./baekjoon/11382/node.js) / [Rust](./baekjoon/11382/rust.rs) |
+| 11478 | [서로 다른 부분 문자열의 개수](./baekjoon/11478/README.md) | [node.js](./baekjoon/11478/node.js) / [Rust](./baekjoon/11478/rust.rs) |
 | 11650 | [좌표 정렬하기](./baekjoon/11650/README.md) | [node.js](./baekjoon/11650/node.js) / [Rust](./baekjoon/11650/rust.rs) |
 | 11651 | [좌표 정렬하기 2](./baekjoon/11651/README.md) | [node.js](./baekjoon/11651/node.js) / [Rust](./baekjoon/11651/rust.rs) |
 | 11653 | [소인수분해](./baekjoon/11653/README.md) | [node.js](./baekjoon/11653/node.js) / [Rust](./baekjoon/11653/rust.rs) |
