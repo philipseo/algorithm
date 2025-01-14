@@ -20,6 +20,7 @@
 | 1436 | [영화감독 숌](./baekjoon/1436/README.md) | [node.js](./baekjoon/1436/node.js) / [Rust](./baekjoon/1436/rust.rs) |
 | 1546 | [평균](./baekjoon/1546/README.md) | [node.js](./baekjoon/1546/node.js) / [Rust](./baekjoon/1546/rust.rs) |
 | 1620 | [나는야 포켓몬 마스터 이다솜](./baekjoon/1620/README.md) | [node.js](./baekjoon/1620/node.js) / [Rust](./baekjoon/1620/rust.rs) |
+| 1735 | [분수 합](./baekjoon/1735/README.md) | [node.js](./baekjoon/1735/node.js) / [Rust](./baekjoon/1735/rust.rs) |
 | 1764 | [듣보잡](./baekjoon/1764/README.md) | [node.js](./baekjoon/1764/node.js) / [Rust](./baekjoon/1764/rust.rs) |
 | 1934 | [최소공배수](./baekjoon/1934/README.md) | [node.js](./baekjoon/1934/node.js) / [Rust](./baekjoon/1934/rust.rs) |
 | 1978 | [소수 찾기](./baekjoon/1978/README.md) | [node.js](./baekjoon/1978/node.js) / [Rust](./baekjoon/1978/rust.rs) |
