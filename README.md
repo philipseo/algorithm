@@ -113,6 +113,7 @@
 | 14681 | [사분면 고르기](./baekjoon/14681/README.md)                         | [node.js](./baekjoon/14681/node.js) / [Rust](./baekjoon/14681/rust.rs) |
 | 15552 | [빠른 A+B](./baekjoon/15552/README.md)                              | [node.js](./baekjoon/15552/node.js) / [Rust](./baekjoon/15552/rust.rs) |
 | 15894 | [수학은 체육과목 입니다](./baekjoon/15894/README.md)                | [node.js](./baekjoon/15894/node.js) / [Rust](./baekjoon/15894/rust.rs) |
+| 17103 | [골드바흐 파티션](./baekjoon/17103/README.md)                       | [node.js](./baekjoon/17103/node.js) / [Rust](./baekjoon/17103/rust.rs) |
 | 18108 | [1998년생인 내가 태국에서는 2541년생?!](./baekjoon/18108/README.md) | [node.js](./baekjoon/18108/node.js) / [Rust](./baekjoon/18108/rust.rs) |
 | 18870 | [좌표 압축](./baekjoon/18870/README.md)                             | [node.js](./baekjoon/18870/node.js) / [Rust](./baekjoon/18870/rust.rs) |
 | 19532 | [수학은 비대면강의입니다](./baekjoon/19532/README.md)               | [node.js](./baekjoon/19532/node.js) / [Rust](./baekjoon/19532/rust.rs) |
