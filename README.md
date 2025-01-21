@@ -132,3 +132,4 @@
 | 25314 | [코딩은 체육과목 입니다](./baekjoon/25314/README.md)                | [node.js](./baekjoon/25314/node.js) / [Rust](./baekjoon/25314/rust.rs) |
 | 27323 | [직사각형](./baekjoon/27323/README.md)                              | [node.js](./baekjoon/27323/node.js) / [Rust](./baekjoon/27323/rust.rs) |
 | 27866 | [문자와 문자열](./baekjoon/27866/README.md)                         | [node.js](./baekjoon/27866/node.js) / [Rust](./baekjoon/27866/rust.rs) |
+| 28278 | [스택2](./baekjoon/28278/README.md)                                 | [node.js](./baekjoon/28278/node.js) / [Rust](./baekjoon/28278/rust.rs) |
