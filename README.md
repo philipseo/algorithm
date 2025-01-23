@@ -69,6 +69,7 @@
 | 5622  | [다이얼](./baekjoon/5622/README.md)                                 | [node.js](./baekjoon/5622/node.js) / [Rust](./baekjoon/5622/rust.rs)   |
 | 7785  | [회사에 있는 사람](./baekjoon/7785/README.md)                       | [node.js](./baekjoon/7785/node.js) / [Rust](./baekjoon/7785/rust.rs)   |
 | 8393  | [합](./baekjoon/8393/README.md)                                     | [node.js](./baekjoon/8393/node.js) / [Rust](./baekjoon/8393/rust.rs)   |
+| 9012  | [괄호](./baekjoon/9012/README.md)                                   | [node.js](./baekjoon/9012/node.js) / [Rust](./baekjoon/9012/rust.rs)   |
 | 9063  | [대지](./baekjoon/9063/README.md)                                   | [node.js](./baekjoon/9063/node.js) / [Rust](./baekjoon/9063/rust.rs)   |
 | 9086  | [문자열](./baekjoon/9086/README.md)                                 | [node.js](./baekjoon/9086/node.js) / [Rust](./baekjoon/9086/rust.rs)   |
 | 9498  | [시험 성적](./baekjoon/9498/README.md)                              | [node.js](./baekjoon/9498/node.js) / [Rust](./baekjoon/9498/rust.rs)   |
