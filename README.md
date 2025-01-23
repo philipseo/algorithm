@@ -63,6 +63,7 @@
 | 3052  | [나머지](./baekjoon/3052/README.md)                                 | [node.js](./baekjoon/3052/node.js) / [Rust](./baekjoon/3052/rust.rs)   |
 | 4134  | [다음 소수](./baekjoon/4134/README.md)                              | [node.js](./baekjoon/4134/node.js) / [Rust](./baekjoon/4134/rust.rs)   |
 | 4948  | [베르트랑 공준](./baekjoon/4948/README.md)                          | [node.js](./baekjoon/4948/node.js) / [Rust](./baekjoon/4948/rust.rs)   |
+| 4949  | [균형잡힌 세상](./baekjoon/4949/README.md)                          | [node.js](./baekjoon/4949/node.js) / [Rust](./baekjoon/4949/rust.rs)   |
 | 5073  | [삼각형과 세 변](./baekjoon/5073/README.md)                         | [node.js](./baekjoon/5073/node.js) / [Rust](./baekjoon/5073/rust.rs)   |
 | 5086  | [배수와 약수](./baekjoon/5086/README.md)                            | [node.js](./baekjoon/5086/node.js) / [Rust](./baekjoon/5086/rust.rs)   |
 | 5597  | [과제 안 내신 분..?](./baekjoon/5597/README.md)                     | [node.js](./baekjoon/5597/node.js) / [Rust](./baekjoon/5597/rust.rs)   |
