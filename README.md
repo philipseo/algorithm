@@ -120,6 +120,7 @@
 | 15894 | [수학은 체육과목 입니다](./baekjoon/15894/README.md)                | [node.js](./baekjoon/15894/node.js) / [Rust](./baekjoon/15894/rust.rs) |
 | 17103 | [골드바흐 파티션](./baekjoon/17103/README.md)                       | [node.js](./baekjoon/17103/node.js) / [Rust](./baekjoon/17103/rust.rs) |
 | 18108 | [1998년생인 내가 태국에서는 2541년생?!](./baekjoon/18108/README.md) | [node.js](./baekjoon/18108/node.js) / [Rust](./baekjoon/18108/rust.rs) |
+| 18258 | [큐 2](./baekjoon/18258/README.md)                                  | [node.js](./baekjoon/18258/node.js) / [Rust](./baekjoon/18258/rust.rs) |
 | 18870 | [좌표 압축](./baekjoon/18870/README.md)                             | [node.js](./baekjoon/18870/node.js) / [Rust](./baekjoon/18870/rust.rs) |
 | 19532 | [수학은 비대면강의입니다](./baekjoon/19532/README.md)               | [node.js](./baekjoon/19532/node.js) / [Rust](./baekjoon/19532/rust.rs) |
 | 24262 | [알고리즘 수업 - 알고리즘의 수행 시간1](./baekjoon/24262/README.md) | [node.js](./baekjoon/24262/node.js) / [Rust](./baekjoon/24262/rust.rs) |
