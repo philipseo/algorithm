@@ -26,6 +26,7 @@
 | 1929  | [소수 구하기](./baekjoon/1929/README.md)                            | [node.js](./baekjoon/1929/node.js) / [Rust](./baekjoon/1929/rust.rs)   |
 | 1934  | [최소공배수](./baekjoon/1934/README.md)                             | [node.js](./baekjoon/1934/node.js) / [Rust](./baekjoon/1934/rust.rs)   |
 | 1978  | [소수 찾기](./baekjoon/1978/README.md)                              | [node.js](./baekjoon/1978/node.js) / [Rust](./baekjoon/1978/rust.rs)   |
+| 2164  | [카드2](./baekjoon/2164/README.md)                                  | [node.js](./baekjoon/2164/node.js) / [Rust](./baekjoon/2164/rust.rs)   |
 | 2231  | [분해합](./baekjoon/2231/README.md)                                 | [node.js](./baekjoon/2231/node.js) / [Rust](./baekjoon/2231/rust.rs)   |
 | 2292  | [벌집](./baekjoon/2292/README.md)                                   | [node.js](./baekjoon/2292/node.js) / [Rust](./baekjoon/2292/rust.rs)   |
 | 2438  | [별 찍기 - 1](./baekjoon/2438/README.md)                            | [node.js](./baekjoon/2438/node.js) / [Rust](./baekjoon/2438/rust.rs)   |
