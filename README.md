@@ -111,6 +111,7 @@
 | 11654 | [아스키 코드](./baekjoon/11654/README.md)                           | [node.js](./baekjoon/11654/node.js) / [Rust](./baekjoon/11654/rust.rs) |
 | 11718 | [그대로 출력하기](./baekjoon/11718/README.md)                       | [node.js](./baekjoon/11718/node.js) / [Rust](./baekjoon/11718/rust.rs) |
 | 11720 | [숫자의 합](./baekjoon/11720/README.md)                             | [node.js](./baekjoon/11720/node.js) / [Rust](./baekjoon/11720/rust.rs) |
+| 11866 | [요세푸스 문제 0](./baekjoon/11866/README.md)                       | [node.js](./baekjoon/11866/node.js) / [Rust](./baekjoon/11866/rust.rs) |
 | 12789 | [도키도키 간식드리미](./baekjoon/12789/README.md)                   | [node.js](./baekjoon/12789/node.js) / [Rust](./baekjoon/12789/rust.rs) |
 | 13241 | [최소공배수](./baekjoon/13241/README.md)                            | [node.js](./baekjoon/13241/node.js) / [Rust](./baekjoon/13241/rust.rs) |
 | 13909 | [창문 닫기](./baekjoon/13909/README.md)                             | [node.js](./baekjoon/13909/node.js) / [Rust](./baekjoon/13909/rust.rs) |
