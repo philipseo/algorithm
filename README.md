@@ -29,6 +29,7 @@
 | 2164  | [카드2](./baekjoon/2164/README.md)                                  | [node.js](./baekjoon/2164/node.js) / [Rust](./baekjoon/2164/rust.rs)   |
 | 2231  | [분해합](./baekjoon/2231/README.md)                                 | [node.js](./baekjoon/2231/node.js) / [Rust](./baekjoon/2231/rust.rs)   |
 | 2292  | [벌집](./baekjoon/2292/README.md)                                   | [node.js](./baekjoon/2292/node.js) / [Rust](./baekjoon/2292/rust.rs)   |
+| 2346  | [풍선 터뜨리기](./baekjoon/2346/README.md)                          | [Rust](./baekjoon/2346/rust.rs)                                        |
 | 2438  | [별 찍기 - 1](./baekjoon/2438/README.md)                            | [node.js](./baekjoon/2438/node.js) / [Rust](./baekjoon/2438/rust.rs)   |
 | 2439  | [별 찍기 - 2](./baekjoon/2439/README.md)                            | [node.js](./baekjoon/2439/node.js) / [Rust](./baekjoon/2439/rust.rs)   |
 | 2444  | [별 찍기 - 7](./baekjoon/2444/README.md)                            | [node.js](./baekjoon/2444/node.js) / [Rust](./baekjoon/2444/rust.rs)   |
