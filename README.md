@@ -70,6 +70,7 @@
 | 5086  | [배수와 약수](./baekjoon/5086/README.md)                            | [node.js](./baekjoon/5086/node.js) / [Rust](./baekjoon/5086/rust.rs)   |
 | 5597  | [과제 안 내신 분..?](./baekjoon/5597/README.md)                     | [node.js](./baekjoon/5597/node.js) / [Rust](./baekjoon/5597/rust.rs)   |
 | 5622  | [다이얼](./baekjoon/5622/README.md)                                 | [node.js](./baekjoon/5622/node.js) / [Rust](./baekjoon/5622/rust.rs)   |
+| 7287  | [등록](./baekjoon/7287/README.md)                                   | [node.js](./baekjoon/7287/node.js) / [Rust](./baekjoon/7287/rust.rs)   |
 | 7785  | [회사에 있는 사람](./baekjoon/7785/README.md)                       | [node.js](./baekjoon/7785/node.js) / [Rust](./baekjoon/7785/rust.rs)   |
 | 8393  | [합](./baekjoon/8393/README.md)                                     | [node.js](./baekjoon/8393/node.js) / [Rust](./baekjoon/8393/rust.rs)   |
 | 9012  | [괄호](./baekjoon/9012/README.md)                                   | [node.js](./baekjoon/9012/node.js) / [Rust](./baekjoon/9012/rust.rs)   |
@@ -81,6 +82,7 @@
 | 10171 | [고양이](./baekjoon/10171/README.md)                                | [node.js](./baekjoon/10171/node.js) / [Rust](./baekjoon/10171/rust.rs) |
 | 10172 | [개](./baekjoon/10172nREADME.md)                                    | [node.js](./baekjoon/10172node.js) / [Rust](./baekjoon/10172rust.rs)   |
 | 10430 | [나머지](./baekjoon/10430/README.md)                                | [node.js](./baekjoon/10430/node.js) / [Rust](./baekjoon/10430/rust.rs) |
+| 10699 | [오늘 날짜](./baekjoon/10699/README.md)                             | [node.js](./baekjoon/10699/node.js) / [Rust](./baekjoon/10699/rust.rs) |
 | 10773 | [제로](./baekjoon/10773/README.md)                                  | [node.js](./baekjoon/10773/node.js) / [Rust](./baekjoon/10773/rust.rs) |
 | 10798 | [세로 읽기](./baekjoon/10798/README.md)                             | [node.js](./baekjoon/10798/node.js) / [Rust](./baekjoon/10798/rust.rs) |
 | 10807 | [개수 세기](./baekjoon/10807/README.md)                             | [node.js](./baekjoon/10807/node.js) / [Rust](./baekjoon/10807/rust.rs) |
