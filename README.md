@@ -3,7 +3,7 @@
 ## 백준
 
 | 번호  | 제목                                                                | 풀이                                                                   |
-| ----- | ------------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| ----- | ------------------------------------------------------------------- | ---------------------------------------------------------------------- | --- |
 | 1000  | [A+B](./baekjoon/1000/README.md)                                    | [node.js](./baekjoon/1000/node.js) / [Rust](./baekjoon/1000/rust.rs)   |
 | 1001  | [A-B](./baekjoon/1001/README.md)                                    | [node.js](./baekjoon/1001/node.js) / [Rust](./baekjoon/1001/rust.rs)   |
 | 1008  | [A/B](./baekjoon/1008/README.md)                                    | [node.js](./baekjoon/1008/node.js) / [Rust](./baekjoon/1008/rust.rs)   |
@@ -32,6 +32,7 @@
 | 2346  | [풍선 터뜨리기](./baekjoon/2346/README.md)                          | [Rust](./baekjoon/2346/rust.rs)                                        |
 | 2438  | [별 찍기 - 1](./baekjoon/2438/README.md)                            | [node.js](./baekjoon/2438/node.js) / [Rust](./baekjoon/2438/rust.rs)   |
 | 2439  | [별 찍기 - 2](./baekjoon/2439/README.md)                            | [node.js](./baekjoon/2439/node.js) / [Rust](./baekjoon/2439/rust.rs)   |
+| 2420  | [사파리월드](./baekjoon/2420/README.md)                             | [node.js](./baekjoon/2420/node.js) / [Rust](./baekjoon/2420/rust.rs)   |     |
 | 2444  | [별 찍기 - 7](./baekjoon/2444/README.md)                            | [node.js](./baekjoon/2444/node.js) / [Rust](./baekjoon/2444/rust.rs)   |
 | 2480  | [주사위 세개](./baekjoon/2480/README.md)                            | [node.js](./baekjoon/2480/node.js) / [Rust](./baekjoon/2480/rust.rs)   |
 | 2485  | [가로수](./baekjoon/2485/README.md)                                 | [node.js](./baekjoon/2485/node.js) / [Rust](./baekjoon/2485/rust.rs)   |
