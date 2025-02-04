@@ -49,6 +49,7 @@
 | 2720  | [세탁소 사장 동혁](./baekjoon/2720/README.md)                       | [node.js](./baekjoon/2720/node.js) / [Rust](./baekjoon/2720/rust.rs)   |
 | 2738  | [행렬 덧셈](./baekjoon/2738/README.md)                              | [node.js](./baekjoon/2738/node.js) / [Rust](./baekjoon/2738/rust.rs)   |
 | 2739  | [구구단](./baekjoon/2739/README.md)                                 | [node.js](./baekjoon/2739/node.js) / [Rust](./baekjoon/2739/rust.rs)   |
+| 2741  | [N 찍기](./baekjoon/2741/README.md)                                 | [node.js](./baekjoon/2741/node.js) / [Rust](./baekjoon/2741/rust.rs)   |
 | 2743  | [단어 길이 재기](./baekjoon/2743/README.md)                         | [node.js](./baekjoon/2743/node.js) / [Rust](./baekjoon/2743/rust.rs)   |
 | 2745  | [진법 변환](./baekjoon/2745/README.md)                              | [node.js](./baekjoon/2745/node.js) / [Rust](./baekjoon/2745/rust.rs)   |
 | 2750  | [수 정렬하기](./baekjoon/2750/README.md)                            | [node.js](./baekjoon/2750/node.js) / [Rust](./baekjoon/2750/rust.rs)   |
@@ -97,6 +98,7 @@
 | 10818 | [최소, 최대](./baekjoon/10818/README.md)                            | [node.js](./baekjoon/10818/node.js) / [Rust](./baekjoon/10818/rust.rs) |
 | 10869 | [사칙연산](./baekjoon/10869/README.md)                              | [node.js](./baekjoon/10869/node.js) / [Rust](./baekjoon/10869/rust.rs) |
 | 10871 | [X보다 작은 수](./baekjoon/10871/README.md)                         | [node.js](./baekjoon/10871/node.js) / [Rust](./baekjoon/10871/rust.rs) |
+| 10872 | [팩토리얼](./baekjoon/10872/README.md)                              | [node.js](./baekjoon/10872/node.js) / [Rust](./baekjoon/10872/rust.rs) |
 | 10926 | [??!](./baekjoon/10926/README.md)                                   | [node.js](./baekjoon/10926/node.js) / [Rust](./baekjoon/10926/rust.rs) |
 | 10950 | [A+B - 3](./baekjoon/10950/README.md)                               | [node.js](./baekjoon/10950/node.js) / [Rust](./baekjoon/10950/rust.rs) |
 | 10951 | [A+B - 4](./baekjoon/10951/README.md)                               | [node.js](./baekjoon/10951/node.js) / [Rust](./baekjoon/10951/rust.rs) |
