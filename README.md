@@ -51,6 +51,7 @@
 | 2739  | [구구단](./baekjoon/2739/README.md)                                 | [node.js](./baekjoon/2739/node.js) / [Rust](./baekjoon/2739/rust.rs)   |
 | 2741  | [N 찍기](./baekjoon/2741/README.md)                                 | [node.js](./baekjoon/2741/node.js) / [Rust](./baekjoon/2741/rust.rs)   |
 | 2743  | [단어 길이 재기](./baekjoon/2743/README.md)                         | [node.js](./baekjoon/2743/node.js) / [Rust](./baekjoon/2743/rust.rs)   |
+| 2744  | [대소문자 바꾸기](./baekjoon/2744/README.md)                        | [node.js](./baekjoon/2744/node.js) / [Rust](./baekjoon/2744/rust.rs)   |
 | 2745  | [진법 변환](./baekjoon/2745/README.md)                              | [node.js](./baekjoon/2745/node.js) / [Rust](./baekjoon/2745/rust.rs)   |
 | 2750  | [수 정렬하기](./baekjoon/2750/README.md)                            | [node.js](./baekjoon/2750/node.js) / [Rust](./baekjoon/2750/rust.rs)   |
 | 2751  | [수 정렬하기2](./baekjoon/2751/README.md)                           | [node.js](./baekjoon/2751/node.js) / [Rust](./baekjoon/2751/rust.rs)   |
