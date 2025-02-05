@@ -56,6 +56,7 @@
 | 2750  | [수 정렬하기](./baekjoon/2750/README.md)                            | [node.js](./baekjoon/2750/node.js) / [Rust](./baekjoon/2750/rust.rs)   |
 | 2751  | [수 정렬하기2](./baekjoon/2751/README.md)                           | [node.js](./baekjoon/2751/node.js) / [Rust](./baekjoon/2751/rust.rs)   |
 | 2753  | [윤년](./baekjoon/2753/README.md)                                   | [node.js](./baekjoon/2753/node.js) / [Rust](./baekjoon/2753/rust.rs)   |
+| 2754  | [학점계산](./baekjoon/2754/README.md)                               | [node.js](./baekjoon/2754/node.js) / [Rust](./baekjoon/2754/rust.rs)   |
 | 2798  | [블랙잭](./baekjoon/2798/README.md)                                 | [node.js](./baekjoon/2798/node.js) / [Rust](./baekjoon/2798/rust.rs)   |
 | 2839  | [설탕 배달](./baekjoon/2839/README.md)                              | [node.js](./baekjoon/2839/node.js) / [Rust](./baekjoon/2839/rust.rs)   |
 | 2869  | [달팽이는 올라가고 싶다](./baekjoon/2869/README.md)                 | [node.js](./baekjoon/2869/node.js) / [Rust](./baekjoon/2869/rust.rs)   |
