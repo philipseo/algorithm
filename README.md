@@ -34,6 +34,7 @@
 | 2439  | [별 찍기 - 2](./baekjoon/2439/README.md)                            | [node.js](./baekjoon/2439/node.js) / [Rust](./baekjoon/2439/rust.rs)   |
 | 2420  | [사파리월드](./baekjoon/2420/README.md)                             | [node.js](./baekjoon/2420/node.js) / [Rust](./baekjoon/2420/rust.rs)   |     |
 | 2444  | [별 찍기 - 7](./baekjoon/2444/README.md)                            | [node.js](./baekjoon/2444/node.js) / [Rust](./baekjoon/2444/rust.rs)   |
+| 2475  | [검증수](./baekjoon/2475/README.md)                                 | [node.js](./baekjoon/2475/node.js) / [Rust](./baekjoon/2475/rust.rs)   |
 | 2480  | [주사위 세개](./baekjoon/2480/README.md)                            | [node.js](./baekjoon/2480/node.js) / [Rust](./baekjoon/2480/rust.rs)   |
 | 2485  | [가로수](./baekjoon/2485/README.md)                                 | [node.js](./baekjoon/2485/node.js) / [Rust](./baekjoon/2485/rust.rs)   |
 | 2501  | [약수 구하기](./baekjoon/2501/README.md)                            | [node.js](./baekjoon/2501/node.js) / [Rust](./baekjoon/2501/rust.rs)   |
