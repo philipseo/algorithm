@@ -152,3 +152,4 @@
 | 27866 | [문자와 문자열](./baekjoon/27866/README.md)                         | [node.js](./baekjoon/27866/node.js) / [Rust](./baekjoon/27866/rust.rs) |
 | 28278 | [스택2](./baekjoon/28278/README.md)                                 | [node.js](./baekjoon/28278/node.js) / [Rust](./baekjoon/28278/rust.rs) |
 | 28279 | [덱 2](./baekjoon/28279/README.md)                                  | [node.js](./baekjoon/28279/node.js) / [Rust](./baekjoon/28279/rust.rs) |
+| 31403 | [A + B - C](./baekjoon/31403/README.md)                             | [node.js](./baekjoon/31403/node.js) / [Rust](./baekjoon/31403/rust.rs) |
