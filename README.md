@@ -112,6 +112,7 @@
 | 11005 | [진법 변환2](./baekjoon/11005/README.md)                            | [node.js](./baekjoon/11005/node.js) / [Rust](./baekjoon/11005/rust.rs) |
 | 11021 | [A+B - 7](./baekjoon/11021/README.md)                               | [node.js](./baekjoon/11021/node.js) / [Rust](./baekjoon/11021/rust.rs) |
 | 11022 | [A+B - 8](./baekjoon/11022/README.md)                               | [node.js](./baekjoon/11022/node.js) / [Rust](./baekjoon/11022/rust.rs) |
+| 10250 | [ACM 호텔](./baekjoon/10250/README.md)                              | [node.js](./baekjoon/10250/node.js) / [Rust](./baekjoon/10250/rust.rs) |
 | 11382 | [꼬마 정민](./baekjoon/11382/README.md)                             | [node.js](./baekjoon/11382/node.js) / [Rust](./baekjoon/11382/rust.rs) |
 | 11478 | [서로 다른 부분 문자열의 개수](./baekjoon/11478/README.md)          | [node.js](./baekjoon/11478/node.js) / [Rust](./baekjoon/11478/rust.rs) |
 | 11650 | [좌표 정렬하기](./baekjoon/11650/README.md)                         | [node.js](./baekjoon/11650/node.js) / [Rust](./baekjoon/11650/rust.rs) |
