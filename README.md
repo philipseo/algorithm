@@ -43,6 +43,7 @@
 | 2562  | [최댓값](./baekjoon/2562/README.md)                                 | [node.js](./baekjoon/2562/node.js) / [Rust](./baekjoon/2562/rust.rs)   |
 | 2563  | [색종이](./baekjoon/2563/README.md)                                 | [node.js](./baekjoon/2563/node.js) / [Rust](./baekjoon/2563/rust.rs)   |
 | 2566  | [최댓값](./baekjoon/2566/README.md)                                 | [node.js](./baekjoon/2566/node.js) / [Rust](./baekjoon/2566/rust.rs)   |
+| 2577  | [숫자의 개수](./baekjoon/2577/README.md)                            | [node.js](./baekjoon/2577/node.js) / [Rust](./baekjoon/2577/rust.rs)   |
 | 2581  | [소수](./baekjoon/2581/README.md)                                   | [node.js](./baekjoon/2581/node.js) / [Rust](./baekjoon/2581/rust.rs)   |
 | 2587  | [대표값2](./baekjoon/2587/README.md)                                | [node.js](./baekjoon/2587/node.js) / [Rust](./baekjoon/2587/rust.rs)   |
 | 2588  | [곱셈](./baekjoon/2588/README.md)                                   | [node.js](./baekjoon/2588/node.js) / [Rust](./baekjoon/2588/rust.rs)   |
