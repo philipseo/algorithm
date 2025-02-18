@@ -48,6 +48,7 @@
 | 2581  | [소수](./baekjoon/2581/README.md)                                   | [node.js](./baekjoon/2581/node.js) / [Rust](./baekjoon/2581/rust.rs)   |
 | 2587  | [대표값2](./baekjoon/2587/README.md)                                | [node.js](./baekjoon/2587/node.js) / [Rust](./baekjoon/2587/rust.rs)   |
 | 2588  | [곱셈](./baekjoon/2588/README.md)                                   | [node.js](./baekjoon/2588/node.js) / [Rust](./baekjoon/2588/rust.rs)   |
+| 2609  | [최대공약수와 최소공배수](./baekjoon/2609/README.md)                | [node.js](./baekjoon/2609/node.js) / [Rust](./baekjoon/2609/rust.rs)   |
 | 2675  | [문자열 반복](./baekjoon/2675/README.md)                            | [node.js](./baekjoon/2675/node.js) / [Rust](./baekjoon/2675/rust.rs)   |
 | 2720  | [세탁소 사장 동혁](./baekjoon/2720/README.md)                       | [node.js](./baekjoon/2720/node.js) / [Rust](./baekjoon/2720/rust.rs)   |
 | 2738  | [행렬 덧셈](./baekjoon/2738/README.md)                              | [node.js](./baekjoon/2738/node.js) / [Rust](./baekjoon/2738/rust.rs)   |
